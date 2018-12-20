@@ -60,3 +60,8 @@ end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+
+gem 'hpricot', '~> 0.8.6'
+gem 'slim-rails', '~> 3.1', '>= 3.1.3'
+gem 'html2slim', '~> 0.2.0'
+gem 'bootstrap'
